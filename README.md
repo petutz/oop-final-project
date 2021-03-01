@@ -1,2 +1,2 @@
-# Foodemon
+# Foodémon
 This is for Neumont
