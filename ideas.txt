@@ -1,0 +1,13 @@
+Ideas:
+- Text Adventure with combat
+	- Creatures gotcha RPG *
+		- Creatures are food
+			- Pizza
+			- Burger
+			- Burrito
+			- Hot Dog
+		- Special Moves = Food Points
+		- HP is Calories
+
+	- RPG where more MP, more debuffs
+- More intelligent Connect Four AI
